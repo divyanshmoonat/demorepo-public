@@ -1,0 +1,1 @@
+console.log("Console added in index file");
