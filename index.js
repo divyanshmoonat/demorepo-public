@@ -1,1 +1,1 @@
-console.log("Console added in index file to demonstrate the conflict");
+console.log("Changed message in index file");
